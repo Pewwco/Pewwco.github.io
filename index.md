@@ -10,11 +10,7 @@
 ### 域名
   大猪蹄子！因为！真的好吃啊！
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
