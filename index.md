@@ -1,15 +1,7 @@
 ## Welcome Pewwco's Homepages
 
-You can use the [editor on GitHub](https://github.com/Pewwco/Pewwco.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+希望大家每天都能开心！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
