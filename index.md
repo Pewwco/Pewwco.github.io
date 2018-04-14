@@ -1,28 +1,10 @@
-## Welcome Pewwco's Homepages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>说起来呢</title>
+</head>
+<body>
 
-希望大家每天都能开心！
-
-
-# 我的专业
-  软件工程
-## 学习目标
-  目前正在学习html,css,js,jsp等一类网页开发内容
-### 域名
-  大猪蹄子！因为！真的好吃啊！
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pewwco/Pewwco.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
